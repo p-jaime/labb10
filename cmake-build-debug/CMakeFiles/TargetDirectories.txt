@@ -1,0 +1,3 @@
+/Users/b.ashuraliyev/CLionProjects/labb10/cmake-build-debug/CMakeFiles/labb10.dir
+/Users/b.ashuraliyev/CLionProjects/labb10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/b.ashuraliyev/CLionProjects/labb10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
